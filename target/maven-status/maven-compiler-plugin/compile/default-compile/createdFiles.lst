@@ -1,0 +1,12 @@
+com\ecommerce\jpa\JpaApplication.class
+com\bookstore\jpa\models\AuthorModel.class
+com\ecommerce\jpa\entity\Order.class
+com\bookstore\jpa\models\PublisherModel.class
+com\ecommerce\jpa\entity\Payment.class
+com\bookstore\jpa\models\BookModel.class
+com\bookstore\jpa\models\Review.class
+com\bookstore\jpa\repositories\BookRepository.class
+com\bookstore\jpa\JpaApplication.class
+com\ecommerce\jpa\entity\Customer.class
+com\ecommerce\jpa\entity\Category.class
+com\ecommerce\jpa\entity\Product.class
