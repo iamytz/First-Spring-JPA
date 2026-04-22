@@ -20,6 +20,9 @@ public class Member {
     @OneToMany(mappedBy = "member")
     private Set<Subscription> subscriptions;
 
+    @OneToOne(mappedBy = "member")
+    private Login login;
+
     //GETTERS AND SETTERS
 
 
